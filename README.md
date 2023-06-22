@@ -15,7 +15,7 @@ NPM
 
 ```shell
 $ npm install --save lodash
-$ npm install --save-dev babel-plugin-lodash @babel/cli @babel/preset-env
+$ npm install --save-dev @sigmacomputing/babel-plugin-lodash @babel/cli @babel/preset-env
 ```
 
 Yarn
